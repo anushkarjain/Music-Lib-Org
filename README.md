@@ -1,1 +1,2 @@
-# Music-Lib-Org
+# Music Library Organizer
+As now we can see that online music streaming services are the popular services to listen to any music. But to this day, the most high quality music services are still the digital copy of individual music (flac). So, for the people who are really passionate for their audio quality of songs while listening have to suffer with a problem,  a problem of management. This app will organize their music library automatically!
